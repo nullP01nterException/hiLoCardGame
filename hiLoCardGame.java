@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Scanner;
 
 public class hiLoCardGame {
@@ -51,3 +52,4 @@ public class hiLoCardGame {
 		cards[12] = "K";
 	}
 }
+
